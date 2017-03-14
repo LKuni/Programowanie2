@@ -1,0 +1,9 @@
+G:\Zaawansowane programowanie obiektowe\zajecia2\zajecia2\bin\Debug\zajecia2.exe.config
+G:\Zaawansowane programowanie obiektowe\zajecia2\zajecia2\obj\Debug\zajecia2.csprojResolveAssemblyReference.cache
+F:\Zaawansowane programowanie obiektowe\zajecia2\zajecia2\bin\Debug\zajecia2.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\bin\Debug\zajecia2.exe.config
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\bin\Debug\zajecia2.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\bin\Debug\zajecia2.pdb
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\obj\Debug\zajecia2.csprojResolveAssemblyReference.cache
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\obj\Debug\zajecia2.exe
+D:\Magisterka\Zaawansowane programowanie obiektowe\zaj2\zajecia2\zajecia2\obj\Debug\zajecia2.pdb

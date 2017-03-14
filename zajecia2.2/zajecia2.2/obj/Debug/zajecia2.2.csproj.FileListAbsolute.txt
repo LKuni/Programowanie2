@@ -1,0 +1,6 @@
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\bin\Debug\zajecia2.2.exe.config
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\bin\Debug\zajecia2.2.exe
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\bin\Debug\zajecia2.2.pdb
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\obj\Debug\zajecia2.2.csprojResolveAssemblyReference.cache
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\obj\Debug\zajecia2.2.exe
+C:\Users\Kuni\Desktop\zajecia2.2\zajecia2.2\obj\Debug\zajecia2.2.pdb
